@@ -1,0 +1,115 @@
+body {
+    background-image: url(../images/ice-hockey-texture-free.jpg);
+    background-size: 100%;
+    font-family: 'Luckiest Guy', cursive;
+}
+.container {
+    width: 1600px;
+    height: 600px;
+}
+.jumbotron {
+    margin-top: 60px;
+    background-color: rgb(110, 187, 187);
+    border: 3px solid rgb(252, 251, 251);
+    font-weight: 900;
+    opacity: 0.8;
+}
+h1 {
+    font-size: 100px;
+    font-family: 'Monoton', cursive;
+    color: white;
+}
+
+.letterT {
+    width: 90px;
+    height: 70px;
+    float: left;
+    padding: 80px;
+    font-family: 'Monoton', cursive;
+
+}
+.letterR {
+    width: 90px;
+    height: 70px;
+    float: left;
+    padding: 80px;
+    position: relative;
+
+}
+.letterI {
+    width: 90px;
+    height: 70px;
+    float: left;
+    padding: 80px;
+    position: relative;
+
+}
+.letterV {
+    width: 90px;
+    height: 70px;
+    float: left;
+    padding: 80px;
+    position: relative;
+}
+.letterII {
+    width: 90px;
+    height: 70px;
+    float: left;
+    padding: 80px;
+    position: relative;
+}
+.letterA {
+    width: 90px;
+    height: 70px;
+    float: left;
+    padding: 80px;
+    position: relative;
+}
+.letterG {
+    width: 90px;
+    height: 70px;
+    padding: 50px;
+    float: left;
+
+}
+.letterAA {
+    width: 90px;
+    height: 70px;
+    padding: 50px;
+    float: left;
+
+}
+.letterM {
+    width: 90px;
+    height: 70px;
+    padding: 50px;
+    float: left;
+}
+.letterE {
+    width: 90px;
+    height: 70px;
+    padding: 50px;
+    float: left;
+}
+.containerGame {
+    margin-top: 100px;
+    margin-left: 900px;
+    padding: 20px;
+    text-align: center;
+}
+.btnContainer {
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.btn,
+.btn-default, 
+.btn-lg,
+.startBtn {
+    background-color:rgb(55, 96, 99);
+    margin-top: 60px;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 300px;
+}
